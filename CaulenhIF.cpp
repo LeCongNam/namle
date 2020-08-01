@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-int a,b;
+int a,b;sdfasdfsadfsdfsadfsafadsfsfsdafasdfasdf
 printf("nhap a va b \t");
 scanf("%d%d",&a,&b);
 if(a!=0)
